@@ -9,7 +9,7 @@ This project contains test scenarios for Selenium Python 101 certification using
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/selenium-python-101.git
+    git clone https://github.com/nafiz-hossain/selenium-python-101-lambdatest.git
     cd selenium-python-101
     ```
 
@@ -29,7 +29,7 @@ You can run this project in Gitpod, a free online dev environment for GitHub.
 
 1. Click the button below to start a new development environment:
 
-    [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/your-username/selenium-python-101)
+    [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/nafiz-hossain/selenium-python-101-lambdatest)
 
 2. Gitpod will automatically set up the environment and run the tests.
 
